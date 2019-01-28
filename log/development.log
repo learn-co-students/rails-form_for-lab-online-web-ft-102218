@@ -46,3 +46,1880 @@ Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
   [1m[35mSQL (0.6ms)[0m  DELETE FROM "students" WHERE "students"."id" = ?  [["id", 2]]
   [1m[36m (1.6ms)[0m  [1mcommit transaction[0m
   [1m[35mStudent Load (0.2ms)[0m  SELECT "students".* FROM "students"
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateSchoolClass (20190127222651)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.3ms)[0m  [1mCREATE TABLE "school_classes" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "room_number" integer) [0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20190127222651"]]
+  [1m[36m (1.5ms)[0m  [1mcommit transaction[0m
+Migrating to CreateSchoolClasses (20190127222757)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.2ms)[0m  [1mCREATE TABLE "school_classes" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreateSchoolClass (20190127222651)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.2ms)[0m  DROP TABLE "school_classes"
+  [1m[36mSQL (0.1ms)[0m  [1mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?[0m  [["version", "20190127222651"]]
+  [1m[35m (1.5ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreateStudents (1)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  DROP TABLE "students"
+  [1m[36mSQL (0.1ms)[0m  [1mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?[0m  [["version", "1"]]
+  [1m[35m (1.6ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateStudents (1)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.3ms)[0m  [1mCREATE TABLE "students" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "first_name" varchar, "last_name" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "1"]]
+  [1m[36m (1.5ms)[0m  [1mcommit transaction[0m
+Migrating to CreateSchoolClass (20190127222651)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.4ms)[0m  [1mCREATE TABLE "school_classes" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "room_number" integer) [0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20190127222651"]]
+  [1m[36m (1.3ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+
+
+Started GET "/school_class/new" for ::1 at 2019-01-27 18:16:02 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+ActionController::RoutingError (No route matches [GET] "/school_class/new"):
+  actionpack (4.2.11) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.11) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.11) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.11) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.11) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.11) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.11) lib/rails/engine.rb:518:in `call'
+  railties (4.2.11) lib/rails/application.rb:165:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  rack (1.6.11) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.11) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.3ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/routes/_table.html.erb (11.2ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (18.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (149.2ms)
+
+
+Started GET "/schoolclass/new" for ::1 at 2019-01-27 18:16:12 -0500
+
+ActionController::RoutingError (No route matches [GET] "/schoolclass/new"):
+  actionpack (4.2.11) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.11) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.11) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.11) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.11) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.11) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.11) lib/rails/engine.rb:518:in `call'
+  railties (4.2.11) lib/rails/application.rb:165:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  rack (1.6.11) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.11) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (82.5ms)
+
+
+Started GET "/schoolclasses/new" for ::1 at 2019-01-27 18:16:22 -0500
+
+ActionController::RoutingError (No route matches [GET] "/schoolclasses/new"):
+  actionpack (4.2.11) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.11) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.11) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.11) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.11) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.11) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.11) lib/rails/engine.rb:518:in `call'
+  railties (4.2.11) lib/rails/application.rb:165:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  rack (1.6.11) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.11) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (83.2ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-27 18:16:58 -0500
+Processing by SchoolClassesController#new as HTML
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.4ms)
+
+ActionView::MissingTemplate (Missing template school_classes/new, application/new with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/app/views"
+):
+  actionview (4.2.11) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.2.11) lib/action_view/lookup_context.rb:121:in `find'
+  actionview (4.2.11) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.2.11) lib/action_view/renderer/template_renderer.rb:40:in `determine_template'
+  actionview (4.2.11) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.2.11) lib/action_view/renderer/renderer.rb:46:in `render_template'
+  actionview (4.2.11) lib/action_view/renderer/renderer.rb:27:in `render'
+  actionview (4.2.11) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.11) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.11) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.11) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.11) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.11) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.11) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+  activesupport (4.2.11) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+  activesupport (4.2.11) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+  activerecord (4.2.11) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:43:in `render'
+  actionpack (4.2.11) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.2.11) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.2.11) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.11) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.11) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:505:in `call'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.11) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.11) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+  activesupport (4.2.11) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.11) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.11) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.11) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.2.11) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.2.11) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.11) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.11) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.11) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.11) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.11) lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+  actionpack (4.2.11) lib/action_dispatch/routing/route_set.rb:43:in `serve'
+  actionpack (4.2.11) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.11) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.11) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.11) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.11) lib/rack/etag.rb:24:in `call'
+  rack (1.6.11) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.11) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.11) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.11) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.11) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.11) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.11) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.11) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.11) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.11) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.11) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.11) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.11) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.11) lib/rails/engine.rb:518:in `call'
+  railties (4.2.11) lib/rails/application.rb:165:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  rack (1.6.11) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.11) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (71.0ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-27 18:18:04 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (45.2ms)
+Completed 500 Internal Server Error in 645ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.61.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+    2: <html>
+    3: <head>
+    4:   <title>Arlab</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3520380113341364440_70276465160660'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.6ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (70.2ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:03:05 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (20.7ms)
+Completed 500 Internal Server Error in 158ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.61.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+    2: <html>
+    3: <head>
+    4:   <title>Arlab</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3520380113341364440_70276465160660'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.1ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (68.3ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:03:45 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 117ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.61.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+    2: <html>
+    3: <head>
+    4:   <title>Arlab</title>
+    5:   # <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3520380113341364440_70276459536800'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.0ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (72.4ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:04:06 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:04:20 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 38ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.61.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+    3: <head>
+    4:   <title>Arlab</title>
+    5: 
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+    9: <body>
+  app/views/layouts/application.html.erb:6:in `_app_views_layouts_application_html_erb__3520380113341364440_70276494721480'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (129.2ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:04:45 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 63ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.61.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+):
+    2: <html>
+    3: <head>
+    4:   <title>Arlab</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6: 
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3520380113341364440_70276459099860'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.6ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (67.8ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:05:08 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 18ms (Views: 17.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:05:30 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:05:36 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:05:51 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/school_classes" for ::1 at 2019-01-28 08:06:07 -0500
+Processing by SchoolClassesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5F5Ned5yYlyx7rmctu55rpnglcr7cbJIFQtjXPAHQhwAi7mPkHKx8089Thcu0PUbS0Q7/3XO+E9ZneBd3yhJsA==", "school_class"=>{"title"=>"Computer Science", "room_number"=>"115"}, "commit"=>"Submit School Class"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (10.8ms)[0m  [1mINSERT INTO "school_classes" ("title", "room_number") VALUES (?, ?)[0m  [["title", "Computer Science"], ["room_number", 115]]
+  [1m[35m (2.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/school_classes/1
+Completed 302 Found in 16ms (ActiveRecord: 12.9ms)
+
+
+Started GET "/school_classes/1" for ::1 at 2019-01-28 08:06:07 -0500
+
+ActionController::RoutingError (No route matches [GET] "/school_classes/1"):
+  actionpack (4.2.11) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.11) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.11) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.11) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.11) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.11) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.11) lib/rails/engine.rb:518:in `call'
+  railties (4.2.11) lib/rails/application.rb:165:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  rack (1.6.11) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.11) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.5ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (95.0ms)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+
+
+Started POST "/school_classes" for ::1 at 2019-01-28 08:07:39 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (9.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by SchoolClassesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5F5Ned5yYlyx7rmctu55rpnglcr7cbJIFQtjXPAHQhwAi7mPkHKx8089Thcu0PUbS0Q7/3XO+E9ZneBd3yhJsA==", "school_class"=>{"title"=>"Data Structures", "room_number"=>"115"}, "commit"=>"Submit School Class"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "school_classes" ("title", "room_number") VALUES (?, ?)[0m  [["title", "Data Structures"], ["room_number", 115]]
+  [1m[35m (3.0ms)[0m  commit transaction
+Redirected to http://localhost:3000/school_classes/2
+Completed 302 Found in 18ms (ActiveRecord: 4.3ms)
+
+
+Started POST "/school_classes" for ::1 at 2019-01-28 08:07:39 -0500
+Processing by SchoolClassesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5F5Ned5yYlyx7rmctu55rpnglcr7cbJIFQtjXPAHQhwAi7mPkHKx8089Thcu0PUbS0Q7/3XO+E9ZneBd3yhJsA==", "school_class"=>{"title"=>"Data Structures", "room_number"=>"115"}, "commit"=>"Submit School Class"}
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "school_classes" ("title", "room_number") VALUES (?, ?)  [["title", "Data Structures"], ["room_number", 115]]
+  [1m[36m (1.4ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/school_classes/3
+Completed 302 Found in 3ms (ActiveRecord: 1.6ms)
+
+
+Started GET "/school_classes/3" for ::1 at 2019-01-28 08:07:39 -0500
+Processing by SchoolClassesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", nil]]
+Completed 500 Internal Server Error in 26ms (ActiveRecord: 0.1ms)
+
+ActionView::MissingTemplate (Missing template school_classes/show, application/show with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/app/views"
+):
+  actionview (4.2.11) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.2.11) lib/action_view/lookup_context.rb:121:in `find'
+  actionview (4.2.11) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.2.11) lib/action_view/renderer/template_renderer.rb:40:in `determine_template'
+  actionview (4.2.11) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.2.11) lib/action_view/renderer/renderer.rb:46:in `render_template'
+  actionview (4.2.11) lib/action_view/renderer/renderer.rb:27:in `render'
+  actionview (4.2.11) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.11) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.11) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.11) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.11) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.11) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.11) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:44:in `block (2 levels) in render'
+  activesupport (4.2.11) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/benchmark.rb:308:in `realtime'
+  activesupport (4.2.11) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:44:in `block in render'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:87:in `cleanup_view_runtime'
+  activerecord (4.2.11) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:43:in `render'
+  actionpack (4.2.11) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.2.11) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.2.11) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.11) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.11) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:555:in `block (2 levels) in compile'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:505:in `call'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:92:in `__run_callbacks__'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:778:in `_run_process_action_callbacks'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.11) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.11) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+  activesupport (4.2.11) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.11) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.11) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.11) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.11) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.2.11) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.2.11) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.11) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.11) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.11) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.11) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.11) lib/action_dispatch/routing/route_set.rb:74:in `dispatch'
+  actionpack (4.2.11) lib/action_dispatch/routing/route_set.rb:43:in `serve'
+  actionpack (4.2.11) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.11) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.11) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.11) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.11) lib/rack/etag.rb:24:in `call'
+  rack (1.6.11) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.11) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.11) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.11) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.11) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.11) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.11) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.11) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.11) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.11) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.11) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.11) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.11) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.11) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.11) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.11) lib/action_dispatch/middleware/static.rb:120:in `call'
+  rack (1.6.11) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.11) lib/rails/engine.rb:518:in `call'
+  railties (4.2.11) lib/rails/application.rb:165:in `call'
+  rack (1.6.11) lib/rack/lock.rb:17:in `call'
+  rack (1.6.11) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.11) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/ericmayfield/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.3ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (90.9ms)
+
+
+Started GET "/school_classes/3" for ::1 at 2019-01-28 08:09:57 -0500
+Processing by SchoolClassesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", nil]]
+  Rendered school_classes/show.html.erb within layouts/application (3.4ms)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.1ms)
+
+ActionView::Template::Error (undefined method `title' for nil:NilClass):
+    1: <h1><%=@school_class.title%></h1>
+    2: <h1><%=@school_class.room_number%></h1>
+  app/views/school_classes/show.html.erb:1:in `_app_views_school_classes_show_html_erb__4387428673420887465_70096210306820'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.5ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (65.9ms)
+
+
+Started GET "/school_classes/3" for ::1 at 2019-01-28 08:11:00 -0500
+Processing by SchoolClassesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered school_classes/show.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 35ms (Views: 25.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/school_classes/3/edit" for ::1 at 2019-01-28 08:29:07 -0500
+
+SyntaxError (/Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/app/controllers/school_classes_controller.rb:26: syntax error, unexpected ')', expecting ']'):
+  app/controllers/school_classes_controller.rb:26: syntax error, unexpected ')', expecting ']'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (65.0ms)
+
+
+Started GET "/school_classes/3/edit" for ::1 at 2019-01-28 08:29:25 -0500
+Processing by SchoolClassesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered school_classes/edit.html.erb within layouts/application (43.8ms)
+Completed 200 OK in 73ms (Views: 65.2ms | ActiveRecord: 0.5ms)
+
+
+Started PATCH "/school_classes/3" for ::1 at 2019-01-28 08:29:34 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"svbo7WJuNOwF/Osmq1eSL1sAcJDTis8diueqVA6S+/RWIxwbLG7nQ/svHK0zaR6aiaTepV01hRrGcSlVIb3wWA==", "school_class"=>{"title"=>"Data Structures", "room_number"=>"116"}, "commit"=>"Submit School Class", "id"=>"3"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 2)):
+  app/controllers/school_classes_controller.rb:20:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (67.4ms)
+
+
+Started GET "/school_classes/3" for ::1 at 2019-01-28 08:32:50 -0500
+
+SyntaxError (/Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/app/controllers/school_classes_controller.rb:32: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/school_classes_controller.rb:32: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.4ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (65.2ms)
+
+
+Started GET "/school_classes/3" for ::1 at 2019-01-28 08:33:12 -0500
+Processing by SchoolClassesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered school_classes/show.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 21ms (Views: 15.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/school_classes/3/edit" for ::1 at 2019-01-28 08:33:15 -0500
+Processing by SchoolClassesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mSchoolClass Load (0.2ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered school_classes/edit.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.2ms)
+
+
+Started PATCH "/school_classes/3" for ::1 at 2019-01-28 08:33:22 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wZtumWcLeMZ35uxUYyLFCAxFKbn8S+gC+ABmaGEwdAAlTppvKQuraYk1G9/7HEm93uGHjHL0ogW0luVpTh9/rA==", "school_class"=>{"title"=>"Data Structures", "room_number"=>"116"}, "commit"=>"Submit School Class", "id"=>"3"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 3]]
+Completed 400 Bad Request in 1ms (ActiveRecord: 0.1ms)
+
+ActionController::ParameterMissing (param is missing or the value is empty: post):
+  app/controllers/school_classes_controller.rb:31:in `post_params'
+  app/controllers/school_classes_controller.rb:20:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (62.5ms)
+
+
+Started GET "/school_classes/3/edit" for ::1 at 2019-01-28 08:34:45 -0500
+Processing by SchoolClassesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered school_classes/edit.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 22ms (Views: 17.9ms | ActiveRecord: 0.4ms)
+
+
+Started PATCH "/school_classes/3" for ::1 at 2019-01-28 08:34:50 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3NqlG5pSeM0p397AOJT4+W4+3z8hPl1m2UF5V5P0Qfc4D1Ht1FKrYtcMKUugqnRMvJpxCq+BF2GV1/pWvNtKWw==", "school_class"=>{"title"=>"Data Structures", "room_number"=>"116"}, "commit"=>"Submit School Class", "id"=>"3"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 3]]
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 2)):
+  app/controllers/school_classes_controller.rb:20:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (64.9ms)
+
+
+Started PATCH "/school_classes/3" for ::1 at 2019-01-28 08:35:11 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3NqlG5pSeM0p397AOJT4+W4+3z8hPl1m2UF5V5P0Qfc4D1Ht1FKrYtcMKUugqnRMvJpxCq+BF2GV1/pWvNtKWw==", "school_class"=>{"title"=>"Data Structures", "room_number"=>"116"}, "commit"=>"Submit School Class", "id"=>"3"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 3]]
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 2)):
+  app/controllers/school_classes_controller.rb:20:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.3ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (69.6ms)
+
+
+Started GET "/school_classes/3" for ::1 at 2019-01-28 08:35:15 -0500
+Processing by SchoolClassesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 3]]
+  Rendered school_classes/show.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 86ms (Views: 85.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/school_classes/3/edit" for ::1 at 2019-01-28 08:35:19 -0500
+Processing by SchoolClassesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered school_classes/edit.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 69ms (Views: 68.5ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/school_classes/3" for ::1 at 2019-01-28 08:35:29 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eEgHixrJl941U1enlev/v5so6GbW5Axkz+s2kUjA2M6cnfN9VMlEccuAoCwN1XMKSYxGU1hbRmODfbWQZ+/TYg==", "school_class"=>{"title"=>"Data Structures", "room_number"=>"116"}, "commit"=>"Submit School Class", "id"=>"3"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", "3"]]
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.5ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 2)):
+  app/controllers/school_classes_controller.rb:21:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.0ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (62.3ms)
+
+
+Started GET "/school_classes/new" for ::1 at 2019-01-28 08:36:26 -0500
+Processing by SchoolClassesController#new as HTML
+  Rendered school_classes/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 19ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/school_classes" for ::1 at 2019-01-28 08:36:52 -0500
+Processing by SchoolClassesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MTQL/aN6XnRKDgFA4UYm7WrrFRwJsDaEGrzR1k7IegvV4f8L7XqN27Td9st5eKpYuE+7KYcPfINWKlLXYedxpw==", "school_class"=>{"title"=>"Algorithms", "room_number"=>"112"}, "commit"=>"Submit School Class"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (26.6ms)[0m  [1mINSERT INTO "school_classes" ("title", "room_number") VALUES (?, ?)[0m  [["title", "Algorithms"], ["room_number", 112]]
+  [1m[35m (1.6ms)[0m  commit transaction
+Redirected to http://localhost:3000/school_classes/4
+Completed 302 Found in 31ms (ActiveRecord: 28.2ms)
+
+
+Started GET "/school_classes/4" for ::1 at 2019-01-28 08:36:52 -0500
+Processing by SchoolClassesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 4]]
+  Rendered school_classes/show.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 22ms (Views: 20.9ms | ActiveRecord: 0.1ms)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+title { "Computer Science" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+room_number { 5 }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/school_classes.rb:4)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+first_name { "Daenerys" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:3)
+DEPRECATION WARNING: Static attributes will be removed in FactoryBot 5.0. Please use dynamic
+attributes instead by wrapping the attribute value in a block:
+
+last_name { "Targaryen" }
+
+To automatically update from static attributes to dynamic ones,
+install rubocop-rspec and run:
+
+rubocop \
+  --require rubocop-rspec \
+  --only FactoryBot/AttributeDefinedStatically \
+  --auto-correct
+
+. (called from block (2 levels) in <top (required)> at /Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/spec/factories/students.rb:4)
+  [1m[36mSchoolClass Load (3.0ms)[0m  [1mSELECT "school_classes".* FROM "school_classes"[0m
+  [1m[35mSchoolClass Load (0.2ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 2]]
+
+
+Started GET "/school_classes/4/edit" for ::1 at 2019-01-28 08:45:03 -0500
+Processing by SchoolClassesController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 4]]
+  Rendered school_classes/edit.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 24ms (Views: 22.7ms | ActiveRecord: 0.1ms)
+
+
+Started PATCH "/school_classes/4" for ::1 at 2019-01-28 08:45:08 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ntS0z2bemxCAa2aE9dGdhU56TbMNUIburU2uVhvs9nl6AUA5KN5Iv364kQ9t7xEwnN7jhoPvzOnh2y1XNMP91Q==", "school_class"=>{"title"=>"Algorithms", "room_number"=>"113"}, "commit"=>"Submit School Class", "id"=>"4"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", "4"]]
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 2)):
+  app/controllers/school_classes_controller.rb:21:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (63.9ms)
+
+
+Started PATCH "/school_classes/4" for ::1 at 2019-01-28 08:46:35 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ntS0z2bemxCAa2aE9dGdhU56TbMNUIburU2uVhvs9nl6AUA5KN5Iv364kQ9t7xEwnN7jhoPvzOnh2y1XNMP91Q==", "school_class"=>{"title"=>"Algorithm", "room_number"=>"114"}, "commit"=>"Submit School Class", "id"=>"4"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", "4"]]
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.1ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 2)):
+  app/controllers/school_classes_controller.rb:21:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.4ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (59.3ms)
+
+
+Started PATCH "/school_classes/4" for ::1 at 2019-01-28 08:48:38 -0500
+
+SyntaxError (/Users/ericmayfield/FlatIron/Flat-Iron-FT/rails-form_for-lab-online-web-ft-102218/app/controllers/school_classes_controller.rb:22: syntax error, unexpected ')', expecting keyword_end):
+  app/controllers/school_classes_controller.rb:22: syntax error, unexpected ')', expecting keyword_end
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (64.5ms)
+
+
+Started PATCH "/school_classes/4" for ::1 at 2019-01-28 08:49:10 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ntS0z2bemxCAa2aE9dGdhU56TbMNUIburU2uVhvs9nl6AUA5KN5Iv364kQ9t7xEwnN7jhoPvzOnh2y1XNMP91Q==", "school_class"=>{"title"=>"Algorithm", "room_number"=>"114"}, "commit"=>"Submit School Class", "id"=>"4"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", "4"]]
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.4ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 2)):
+  app/controllers/school_classes_controller.rb:22:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.3ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (4.9ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (67.1ms)
+
+
+Started PATCH "/school_classes/4" for ::1 at 2019-01-28 08:50:21 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ntS0z2bemxCAa2aE9dGdhU56TbMNUIburU2uVhvs9nl6AUA5KN5Iv364kQ9t7xEwnN7jhoPvzOnh2y1XNMP91Q==", "school_class"=>{"title"=>"Algorithm", "room_number"=>"114"}, "commit"=>"Submit School Class", "id"=>"4"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", "4"]]
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.4ms)
+
+ArgumentError (wrong number of arguments (given 1, expected 2)):
+  app/controllers/school_classes_controller.rb:22:in `update'
+
+
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.3ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ericmayfield/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (61.5ms)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (9.1ms)[0m  UPDATE "school_classes" SET "room_number" = ? WHERE "school_classes"."id" = ?  [["room_number", 113], ["id", 2]]
+  [1m[36m (1.5ms)[0m  [1mcommit transaction[0m
+
+
+Started GET "/school_classes/2" for ::1 at 2019-01-28 08:54:13 -0500
+Processing by SchoolClassesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered school_classes/show.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 46ms (Views: 24.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/school_classes/2/edit" for ::1 at 2019-01-28 08:54:18 -0500
+Processing by SchoolClassesController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mSchoolClass Load (0.2ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered school_classes/edit.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 31ms (Views: 19.9ms | ActiveRecord: 0.2ms)
+
+
+Started PATCH "/school_classes/2" for ::1 at 2019-01-28 08:54:23 -0500
+Processing by SchoolClassesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"IQAgVLEIWEboOuO9OucqEboh0cF7rF9F3pCKkm10tCbF1dSi/wiL6RbpFDai2aakaIV/9PUTFUKSBgmTQlu/ig==", "school_class"=>{"title"=>"Data Structures", "room_number"=>"115"}, "commit"=>"Submit School Class", "id"=>"2"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mUPDATE "school_classes" SET "room_number" = ? WHERE "school_classes"."id" = ?[0m  [["room_number", 115], ["id", 2]]
+  [1m[35m (1.4ms)[0m  commit transaction
+Redirected to http://localhost:3000/school_classes/2
+Completed 302 Found in 5ms (ActiveRecord: 1.8ms)
+
+
+Started GET "/school_classes/2" for ::1 at 2019-01-28 08:54:23 -0500
+Processing by SchoolClassesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mSchoolClass Load (0.1ms)[0m  [1mSELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered school_classes/show.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 26ms (Views: 25.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/school_classes/2/edit" for ::1 at 2019-01-28 09:16:07 -0500
+Processing by SchoolClassesController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mSchoolClass Load (0.1ms)[0m  SELECT  "school_classes".* FROM "school_classes" WHERE "school_classes"."id" = ? LIMIT 1  [["id", 2]]
+  Rendered school_classes/edit.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 41ms (Views: 30.0ms | ActiveRecord: 0.5ms)
